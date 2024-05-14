@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Domain\\Domain.csproj": {}
+    "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Domain\\Domain.csproj": {
+    "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config",

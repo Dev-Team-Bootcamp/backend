@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "llb43T7EYKa3GmknZ5FqspJX8nGioF3ZdFW5T6VXam8i+icb66gHqJD0W/Yv4rX+yP5zj4GXxIkBcBQhHtHGAA==",
+  "dgSpecHash": "greojS+ZlPdHOJ5qpVF7HoTH3ksvUPwhtA9xmukkXGJdHORXPuYL54UdYrDiGWLdGF/LZbnWePgOnBjWDEDxwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Application\\Application.csproj": {}
+    "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Application\\Application.csproj": {
+    "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\talha\\Desktop\\bootcamp\\DevTeamBootcamp\\Application\\obj\\",
+        "outputPath": "C:\\Users\\talha\\Desktop\\bootcamp\\backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config",
